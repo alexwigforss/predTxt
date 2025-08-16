@@ -1,0 +1,7 @@
+// todo
+  //rita ut en markör medans outlined är sann. 
+
+// bin
+
+//    cc = '\0';
+//för att rensa char cc
